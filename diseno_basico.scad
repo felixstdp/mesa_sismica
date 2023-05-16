@@ -1,5 +1,5 @@
-translate([0,40,0])rotate([90,0,0])guia();
-translate([0,240,0])rotate([90,0,0])guia();
+translate([0,60,0])rotate([90,0,0])guia();
+translate([0,220,0])rotate([90,0,0])guia();
 translate([0,0,20])rotate([-90,0,0])guia();
 translate([0,310,20])rotate([-90,0,0])guia();
 %translate([10,0,10])rotate([-90,0,0])cylinder(d=10,h=320,$fn=60);
