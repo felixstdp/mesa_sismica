@@ -19,12 +19,12 @@ mirror([1,0,0]){
 translate([l/2-7,l/2-7,-6.24])tornillo();
 translate([l/2-37,l/2-7,-6.24])tornillo();
 translate([l/2-7,l/2-39,-6.24])tornillo();
-}
 
-mirror([1,1,0]){
+mirror([0,1,0]){
 translate([l/2-7,l/2-7,-6.24])tornillo();
 translate([l/2-37,l/2-7,-6.24])tornillo();
 translate([l/2-7,l/2-39,-6.24])tornillo();
+}
 }
 
 }
